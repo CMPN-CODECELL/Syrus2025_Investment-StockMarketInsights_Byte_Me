@@ -1,0 +1,20 @@
+# FinX-AI
+
+### PROBLEM STATEMENT:
+
+Developing an intelligent AI agent that can comprehensively analyze stock prices by integrating complex external factors beyond traditional fundamental analysis, including global market sentiments, geopolitical events, cross-asset correlations, social media discussions, and real-time economic indicators to provide holistic and predictive investment insights that human analysts cannot efficiently process or understand.
+
+
+### Mentor Guidance:
+
+- Asked to implement basic working of the flow of our AI-agent.
+- Asked to implement Financial fundamental analysis, market sentiment analysis and Social media 
+- Asked to implement Insights using the market sentiment analysis.
+
+- We suggested implementation of RAG (Retrival Augmented Generation) for analyzing personal/enterprise portfolio and giving personalized insight. 
+
+
+### Current Progress
+- Completed implementation of Financial fundamental analysis
+- Getting the response for sentiment and social media analysis in JSON format in UPTIQ CONSOLE (Faced Network error while publishing).
+- Work in progress on RAG implementation.
