@@ -20,9 +20,13 @@ Developing an intelligent AI agent that can comprehensively analyze stock prices
 - Work in progress on RAG implementation.
 
 ### DAY 2 OUTPUT (FINAL IMPLEMENTATION)
+- video link: https://youtu.be/4oKsTP7BVhI
 - Fundamental Analysis of any stock using Balance Sheets, P/L     statements, Cashflow data.
 - Insights based on news successfully integrated into the main sub-agent.
 - Successfully able to retrive the user's portfolio data from the Vector Database on UPTIQ CONSOLE.
 - Able to predict the correlations between given stock and other related resources (eg. oil prices affect Airways stock)
 
 
+
+### Note
+We faced a "model not found" error while exporting the complete model, hence the zip file of the first draft is uploaded. The demo video has the complete implementation of our workflow.
