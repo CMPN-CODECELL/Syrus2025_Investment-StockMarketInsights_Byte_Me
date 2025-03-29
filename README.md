@@ -14,7 +14,15 @@ Developing an intelligent AI agent that can comprehensively analyze stock prices
 - We suggested implementation of RAG (Retrival Augmented Generation) for analyzing personal/enterprise portfolio and giving personalized insight. 
 
 
-### Current Progress
+### DAY 1 OUTPUT
 - Completed implementation of Financial fundamental analysis
 - Getting the response for sentiment and social media analysis in JSON format in UPTIQ CONSOLE (Faced Network error while publishing).
 - Work in progress on RAG implementation.
+
+### DAY 2 OUTPUT (FINAL IMPLEMENTATION)
+- Fundamental Analysis of any stock using Balance Sheets, P/L     statements, Cashflow data.
+- Insights based on news successfully integrated into the main sub-agent.
+- Successfully able to retrive the user's portfolio data from the Vector Database on UPTIQ CONSOLE.
+- Able to predict the correlations between given stock and other related resources (eg. oil prices affect Airways stock)
+
+
